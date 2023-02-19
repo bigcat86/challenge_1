@@ -1,2 +1,2 @@
 # challenge_1
-bootcamp challenge 1
+Bootcamp challenge #1 - Rework the given code to meet accessibility requirements.
