@@ -2,7 +2,7 @@
 
 ### Task 
 Rework the given code (Horiseon - Social Solution Services) to meet accessibility requirements.
-  * Remove ambiguous tags and use semantic HTML elements (such as <section>)
+  * Remove ambiguous tags and use semantic HTML elements (such as "section")
   * Label elements to flow in logical order
   * Use alt attributes with images
   * Create a concise and descriptive title
