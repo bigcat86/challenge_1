@@ -11,5 +11,4 @@ Rework the given code (Horiseon - Social Solution Services) to meet accessibilit
 This challenge has been submitted and can be viewed by [CLICKING THIS](https://bigcat86.github.io/challenge_1)
   
 Below, you can view what the website looks like:
-![screenshot](./assets/Screenshot_Horiseon.png)
-
+![Screenshot Horiseon](https://user-images.githubusercontent.com/122062578/221998395-32fe5990-c952-4294-a03c-7c2a319907f5.png)
